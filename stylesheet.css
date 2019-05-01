@@ -1,0 +1,25 @@
+body {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+
+.General {
+	font-size: 12px;
+	text-decoration: none;
+	color: #000000;
+}
+.Small {
+	font-size: 10px;
+}
+.GeneralLink {
+	font-size: 12px;
+	text-decoration: underline;
+	color: #000000;
+}
+.Title {
+	font-size: 13px;
+	color: #000000;
+}
+.BigTitle {
+	font-size: 15px;
+	color: #000000;
+}
